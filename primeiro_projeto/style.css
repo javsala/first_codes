@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(
+        rgb(220,20,60),
+        rgb(100,0,0)
+    );
+    height: 100vh;
+    color:white;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    height:100vh;
+}
